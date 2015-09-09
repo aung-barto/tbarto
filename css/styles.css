@@ -1,8 +1,8 @@
 
-body {font-family: arial; font-size: 10px; line-height: 15px;}
+body {font-family: Arial, Helvetica; font-size: 10.5px; line-height: 1.5;word-spacing:2px;color:#555;}
 .magic-container {
-  margin: 110px 0 0 250px;
+  margin: 160px 0 0 250px;
 }
 p {width: 300px;}
 .hr {height: 1px;width:15px;background-color:#000000;}
-img {margin:40px 0 0 40px;width:47px;height:47px;}
+img {margin:32px 0 0 30px;width:50px;height:50px;}
